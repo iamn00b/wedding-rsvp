@@ -1,0 +1,6 @@
+export enum AppColour {
+  PRIMARY = '#293045',
+  PRIMARY_DIMMED = '#293045AA',
+  SECONDARY = '#B98859',
+  PRIMARY_LIGHT = '#EFEFEF',
+}
